@@ -4,38 +4,32 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Olá pessoal, fiz dois projetos utilizando ferramentas de IA o primeiro projeto uma (Música) e segundo projeto uma apresentação
 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto
+
+Love Music e Explorer BD dados.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto de criação de uma musica no prompt pedia um contexto e estilo musical, fiz uma breve descrição e depois gerou o resultado.
+projeto de criação de uma apresentação da mesma forma dei um título e foi gerado uma apresentação com temas para cada página.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gamma IA e Sunoai.ai
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei as duas IAs para cada uma delas criar um projeto Gamma IA e Sunoai.ai
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Music - https://encurtador.com.br/nDvbL
+
+Explorer BD Dados - https://gamma.app/docs/9xx7xlmmmahz5q9?following_id=xz994xn05gl39fa&follow_on_start=true
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Gostei do desafio foi interessante usar essas ferramentas.
 ```
 
 ### Exemplos e Insigths
